@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+img, video, canvas {
+  max-width: 100%; }
+
+body {
+  background-color: #e4c9c2; }
+
+.myH1 {
+  text-align: center;
+  margin-top: 100px; }
+
+.myH2 {
+  text-align: center;
+  margin-bottom: 101px; }
+
+.myImg {
+  height: 200px;
+  width: 170px;
+  margin-left: 200px;
+  margin-bottom: 70px; }
+
+.myProverb {
+  text-align: center;
+  border: 1px solid #b1857a;
+  width: 500px;
+  margin-left: 256px;
+  border-radius: 10px;
+  margin-left: 400px; }
